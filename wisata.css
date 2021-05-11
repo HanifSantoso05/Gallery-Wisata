@@ -1,0 +1,87 @@
+body{
+    font-family: verdana;
+    background-color: tan;
+}
+div.judul{
+    padding: 15px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    background: rgb(25, 119, 182);
+}
+div.container{
+    margin:auto;
+    width: 1110px;
+    padding: 20px;
+    overflow: hidden;
+    border: 15px solid;
+    border-image: linear-gradient(orange, #0c719f) 30;
+}
+div.gallery {
+    margin: 10px;
+    border: 1px solid transparent;
+    float: left;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+div.gallery img {
+    width: 100%;
+    border-radius: 10px;
+    height: 150px;
+}
+.pasir{
+    height: 20px;
+    padding:5px 19px;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left:10px;
+    background: url(https://id-test-11.slatic.net/p/a3190f898a46a056a80c9fcd0e669259.jpg);
+}
+.koja{
+    height: 20px;
+    padding:5px 53px;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 17px;
+    background: url(https://id-test-11.slatic.net/p/a3190f898a46a056a80c9fcd0e669259.jpg);
+}
+.telaga{
+    height: 20px;
+    padding:5px 56px;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 17px;
+    background: url(https://id-test-11.slatic.net/p/a3190f898a46a056a80c9fcd0e669259.jpg);
+}
+.bekelir{
+    height: 20px;
+    padding:5px 32px;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 15px;
+    background: url(https://id-test-11.slatic.net/p/a3190f898a46a056a80c9fcd0e669259.jpg);
+}
+.breeze{
+    height: 20px;
+    padding:5px 55px;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left:16px;
+    background: url(https://id-test-11.slatic.net/p/a3190f898a46a056a80c9fcd0e669259.jpg);
+}
